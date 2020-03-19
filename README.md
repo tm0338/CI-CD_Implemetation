@@ -1,6 +1,6 @@
 # CI-CD_Implemetation
 This repo discusses CI/CD implementation details that includes automation test framework
-# Integrating test automation framework into CI/CD environment
+## Integrating test automation framework into CI/CD environment
 
 In order for the UI automation and API automation framework to be part of Continuous Integration environment, 
 a CI/CD pipeline can be constructed using following components.
